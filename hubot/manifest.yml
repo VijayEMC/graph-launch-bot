@@ -1,0 +1,6 @@
+--- 
+applications: 
+-   name: j5-test 
+    memory: 1G 
+    buildpack: nodejs_buildpack
+    no-route: true
